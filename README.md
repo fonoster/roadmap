@@ -65,10 +65,11 @@ The following is a list of our current product areas:
 
 The following is a list of our current features and products, with distinct labels for filtering:
 
-- **apis:** Fonoster APIs
-- **docs:** Fonoster Docs
-- **integrations:** Fonoster Integrations
-- **pages:** Fonoster Pages
+- **sipnet:** Fonoster SIP Network
+- **voice:** Fonoster Voice
+- **conference:** Fonoster Conference
+- **messaging:** Fonoster Messaging
+- **contact:** Fonoster Contact Center
 
 _More labels will be added in the future as needed._
 
