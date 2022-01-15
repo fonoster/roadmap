@@ -78,7 +78,7 @@ _More labels will be added in the future as needed._
 The following is a list of our current product SKUs. 
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
-- **fonoster team:** Fonoster Team
+- **fonoster team:** Fonoster Community Edition
 - **fonoster enterprise:** Fonoster Enterprise (Cloud and Server)
 
 ## Disclaimer 
