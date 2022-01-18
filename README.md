@@ -65,6 +65,7 @@ The following is a list of our current product areas:
 
 The following is a list of our current features and products, with distinct labels for filtering:
 
+- **marketplace:** Fonoster Marketplace
 - **sipnet:** Fonoster SIP Network
 - **voice:** Fonoster Voice
 - **conference:** Fonoster Conference
